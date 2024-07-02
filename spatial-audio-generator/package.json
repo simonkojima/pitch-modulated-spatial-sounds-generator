@@ -1,0 +1,20 @@
+{
+  "name": "spatialaudio",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "dev-exp": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.0",
+    "resonance-audio": "^1.0.0",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.5"
+  }
+}
